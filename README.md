@@ -14,7 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-
+## Windows DISA-STIG Remediation Scripts
+- **[Vulnerability Management]
 
 
 <!--
