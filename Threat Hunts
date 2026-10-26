@@ -1,0 +1,30 @@
+# 🔎 Threat Hunting Portfolio
+
+## Overview
+
+Welcome to my Threat Hunting Portfolio! This repository documents hands-on cybersecurity investigations conducted in a simulated enterprise environment.
+
+These investigations focus on identifying suspicious activity, analyzing endpoint and network telemetry, investigating potential security incidents, and mapping attacker behavior to the MITRE ATT&CK framework.
+
+Each threat hunt includes the investigation methodology, queries used, evidence collected, findings, and recommended remediation or response actions.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Defender for Endpoint (MDE)
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+- Microsoft Azure
+- Windows Event Logs
+- MITRE ATT&CK Framework
+
+## 📂 Threat Hunting Investigations
+
+| Hunt | Investigation | Techniques | Report |
+|---|---|---|---|
+| 01 | Suspicious PowerShell Activity | T1059.001 – PowerShell | [View Report](#) |
+| 02 |
+| 03 | 
+| 04 | 
+| 05 | 
+
+*Reports will be linked as investigations are completed.*
